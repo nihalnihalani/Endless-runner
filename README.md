@@ -1,6 +1,6 @@
 # JeffMcCluckerson
  The Rampage of Jeff McCluckerson - Endless Runner Style Game
- 
+ !https://github.com/nihalnihalani/Endless-runner/blob/master/images/Screenshot%202020-06-28%20at%2012.19.10%20PM.png
  Adding your own tiles:\
  (1) Grab the empty base tile from the folder.  Make a copy of it in the heirarchy window.\
  (2) For this copy, change the parent position in the inspector to be x:0, y:0, z:0.\
